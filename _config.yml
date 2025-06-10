@@ -64,25 +64,25 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/aphroditeReborn"
-      - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/nelly-mwangi-nmm/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nelly-mwangi"
-    
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/aphroditeReborn"
-      - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/nelly-mwangi-nmm/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nelly-mwangi"
+      
 defaults:
   # _posts
   - scope:
