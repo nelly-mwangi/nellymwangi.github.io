@@ -17,6 +17,7 @@ I build secure, scalable digital systems with expertise in:
 - Cloud security principles
 - AWS cloud architecture
 - Cybersecurity best practices
+- IT support 
 
 ---
 
