@@ -30,6 +30,12 @@ I build secure, scalable digital systems with expertise in:
  
 
 ---
+## 🎓 Education
+
+**Meru University of Science and Technology**  
+📜 Bachelor of Science in Computer Science
+
+---
 
 ## 🛠️ Technical Skills
 
