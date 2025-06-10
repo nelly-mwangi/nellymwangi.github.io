@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🎓 Curriculum Vitae - Nelly Mwangi"
+title: "🎓 Curriculum Vitae "
 author_profile: true
 ---
 
