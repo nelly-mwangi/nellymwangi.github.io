@@ -3,7 +3,7 @@
 layout: single
 author_profile: true
 ---
-# 🎓 Curriculum Vitae - Nelly Mwangi
+## 🎓 Curriculum Vitae - Nelly Mwangi
 
 **🌐 Networking & Cloud Security Professional**  
 **☁️ AWS Trained | 🛡️ Cybersecurity Specialist**
