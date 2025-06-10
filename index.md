@@ -13,7 +13,7 @@ author_profile: true
 ## 👩‍💻 About Me
 
 I build secure, scalable digital systems with expertise in:
-- Network infrastructure (CCNA certified)
+- Network infrastructure
 - Cloud security principles
 - AWS cloud architecture
 - Cybersecurity best practices
@@ -54,13 +54,5 @@ I build secure, scalable digital systems with expertise in:
 
 ---
 
-## 📬 Professional Profiles
-
-- 📧 **Email**: [nellymwangi178@gmail.com](mailto:nellymwangi178@gmail.com)  
-- 💻 **GitHub**: [github.com/nelly-mwangi](https://github.com/nelly-mwangi)  
-- 🔗 **LinkedIn**: [linkedin.com/in/nelly-mwangi-nmm](https://www.linkedin.com/in/nelly-mwangi-nmm/)  
-- 🌐 **Portfolio**: [nellymwangi.github.io](https://nellymwangi.github.io/)  
-
----
 
 > "Security is a continuous journey, not a destination."
