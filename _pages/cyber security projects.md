@@ -118,3 +118,45 @@ nslookup tryhackme.com
 # cURL examples from CTF
 curl -X POST -H "User-Agent: CTF-Agent" -d "username=admin" http://target.site/login
 curl -i -H "Authorization: Bearer token123" https://api.ctf.site/data
+
+---
+---
+
+## 🌐 HTB Academy: Web Requests Module
+
+🎲 **Platform**: [Hack The Box Academy](https://academy.hackthebox.com/)  
+🏅 **Achievement Badge**:  
+[![HTB Web Requests Badge](https://academy.hackthebox.com/images/badges/web-requests.svg)](https://academy.hackthebox.com/achievement/badge/cb163662-43a1-11f0-bcfdbea50ffe6cb4)  
+🔗 [Click to view full certificate](https://academy.hackthebox.com/achievement/badge/cb163662-43a1-11f0-bcfdbea50ffe6cb4)
+
+---
+
+### 📝 Module Overview
+
+This module provided a deep dive into the **HTTP protocol** and how web applications handle requests and responses. I explored the structure of HTTP headers, methods, and payloads — both in theory and practice — and performed hands-on interaction with RESTful APIs.
+
+---
+
+### 🔍 Skills Demonstrated
+- 🌐 **Understanding HTTP Protocol**: Request/response cycles and status codes  
+- 🧾 **Crafting Web Requests**: Using `curl` and browser developer tools  
+- 🔐 **Header Manipulation**: User-Agent, Authorization, Content-Type  
+- 🔄 **CRUD API Operations**: GET, POST, PUT, DELETE  
+- 🕵️‍♀️ **Web Traffic Inspection**: Analyzing client-server communications  
+
+---
+
+### 🛠️ Tooling Implementation
+
+```bash
+# GET request
+curl -X GET https://api.example.com/data
+
+# POST request with form data
+curl -X POST -d "username=admin&password=1234" https://api.example.com/login
+
+# PUT request to update a resource
+curl -X PUT -H "Content-Type: application/json" -d '{"city":"Nairobi"}' https://api.example.com/cities/1
+
+# DELETE request to remove a city
+curl -X DELETE https://api.example.com/cities/1
