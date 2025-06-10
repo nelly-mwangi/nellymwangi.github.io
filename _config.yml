@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Nelly Mwangi"
   avatar : "/assets/images/profile photo.jpg"
-  bio    : "Learner,security, cloud networks."
+  bio    : "I’m passionate about building secure, scalable, and efficient digital systems. I’ve completed training in Networking (CCNA), Cloud Security with Cyber Shujaa, alongside AWS by AWS Restart Kenya."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
