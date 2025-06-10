@@ -4,8 +4,27 @@ permalink: /cybersecurityprojects/
 layouts: posts
 author_profile: true
 ---
-## 📡 Intro to Network Traffic Analysis (Tier 0)
 
-## 🌐 DNS in Detail
+## 🏆 Completed CTF Challenges
 
-## 🌍 Web Requests
+### 🌐 **Intro to Network Traffic Analysis (Tier 0)**
+**🛠️ Tools Used:** Wireshark | TCPdump | TShark  
+**📌 Skills Demonstrated:**
+- PCAP analysis
+- Protocol identification
+- Malicious traffic detection
+
+📸 [Certificate Preview](#) | 📝 [Full Writeup](#)
+
+---
+
+### 🔎 **DNS in Detail**  
+**🛠️ Tools Used:** `dig` | `nslookup` | DNSDumpster  
+**📌 Skills Demonstrated:**  
+- DNS record analysis (A, MX, TXT)
+- Subdomain enumeration
+- DNS zone transfer testing
+
+```bash
+# Example DNS query
+dig example.com ANY
