@@ -69,24 +69,49 @@ This module introduced me to packet analysis and traffic monitoring. I learned t
 
 ---
 
+---
+
 ### 🔎 **DNS in Detail**  
-**🛠️ Tools Used:** `dig` | `nslookup` | DNSDumpster  
-**📌 Skills Demonstrated:**  
-- What is DNS
-- Domain Hierarchy
-- Record Types
-- Making a Request
 
-## 🌍 Web Requests 
+🎯 **Platform**: [TryHackMe – DNS in Detail](https://tryhackme.com/room/dnsindetail)  
+📚 **Module Summary**:  
+Hands-on room focused on understanding DNS mechanics, hierarchy, and exploitation in cybersecurity contexts. Covered how DNS queries are made, record types used, and tools for enumeration and information gathering.
 
-**Performed comprehensive HTTP protocol analysis through hands-on challenges:**  
+---
 
-### 🔍 Skills Demonstrated
-- **HTTP Method Mastery** (GET/POST/PUT/DELETE)  
-- **Header Manipulation** (User-Agent, Cookies, Referer)  
-- **Status Code Analysis** (200, 301, 403, 500)  
-- **Form Data Handling** (URL-encoded vs multipart)  
-- **API Endpoint Testing** (RESTful services inspection)  
+### 🛠️ Tools Used
+- 🧪 `dig` – DNS query tool  
+- 🧾 `nslookup` – Resolve names to IPs  
+- 🌐 [DNSDumpster](https://dnsdumpster.com) – Passive DNS recon  
+
+---
+
+### 📌 Skills Demonstrated
+- ✅ Understanding the **DNS Protocol** and its role in networking  
+- ✅ Exploring the **Domain Hierarchy** (Root > TLD > Subdomain)  
+- ✅ Identifying common **Record Types** (A, CNAME, MX, TXT)  
+- ✅ Executing **DNS Requests** and interpreting responses  
+- ✅ Using OSINT tools to enumerate domain information
+
+---
+
+### 🧠 Practical Examples
+
+```bash
+# Lookup A record
+dig A tryhackme.com
+
+# Find mail servers (MX record)
+dig MX tryhackme.com
+
+# Reverse lookup an IP address
+dig -x 10.10.10.10
+
+# nslookup to resolve name
+nslookup tryhackme.com
+
+# Subdomain brute-force with DNSDumpster or external tools
+  
 
 ### 🛠️ Tooling Implementation
 ```bash
