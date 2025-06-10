@@ -68,7 +68,8 @@ This module introduced me to packet analysis and traffic monitoring. I learned t
 📌 **View Certificate**: [Click to Open Badge](https://academy.hackthebox.com/achievement/1918558/81)
 
 
-📸 [Certificate Preview](#) | 📝 [Full Writeup](#)
+📸 [Certificate Preview]([![HTB Certificate Preview](https://academy.hackthebox.com/images/badges/network-traffic-analysis.svg)](https://academy.hackthebox.com/achievement/1918558/81)
+) | 📝 [Full Writeup](#)
 
 ---
 
