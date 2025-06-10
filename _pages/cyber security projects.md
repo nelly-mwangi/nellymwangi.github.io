@@ -125,38 +125,58 @@ curl -i -H "Authorization: Bearer token123" https://api.ctf.site/data
 ## 🌐 HTB Academy: Web Requests Module
 
 🎲 **Platform**: [Hack The Box Academy](https://academy.hackthebox.com/)  
-🏅 **Achievement Badge**:  
-[![HTB Web Requests Badge](https://academy.hackthebox.com/images/badges/web-requests.svg)](https://academy.hackthebox.com/achievement/badge/cb163662-43a1-11f0-bcfdbea50ffe6cb4)  
-🔗 [Click to view full certificate](https://academy.hackthebox.com/achievement/badge/cb163662-43a1-11f0-bcfdbea50ffe6cb4)
+🏅 **Achievement Badge**: [![Badge Link](https://academy.hackthebox.com/images/badges/web-requests.svg)](https://academy.hackthebox.com/achievement/badge/cb163662-43a1-11f0-bcfdbea50ffe6cb4)  
+🧠 **Focus Areas**:  
+- 🌐 HTTP Protocol & Web Architecture  
+- 🔍 Analyzing Web Requests & Responses  
+- 🧾 Header & Payload Manipulation  
+- 🔄 CRUD Operations with APIs  
+
+🛠️ **Tools Used**:  
+- 🧪 `curl` – CLI for crafting HTTP requests  
+- 🧰 Browser Developer Tools – Live request inspection  
+- 🧮 RESTful API Endpoints – Real-world request testing
 
 ---
 
-### 📝 Module Overview
+### 📝 Summary  
+**📌 Skills Demonstrated:**  
+- GET / POST / PUT / DELETE methods  
+- HTTP headers: `User-Agent`, `Content-Type`, `Authorization`  
+- API endpoint inspection and interaction  
+- HTTP response codes and debugging  
+- Secure data handling techniques  
 
-This module provided a deep dive into the **HTTP protocol** and how web applications handle requests and responses. I explored the structure of HTTP headers, methods, and payloads — both in theory and practice — and performed hands-on interaction with RESTful APIs.
-
----
-
-### 🔍 Skills Demonstrated
-- 🌐 **Understanding HTTP Protocol**: Request/response cycles and status codes  
-- 🧾 **Crafting Web Requests**: Using `curl` and browser developer tools  
-- 🔐 **Header Manipulation**: User-Agent, Authorization, Content-Type  
-- 🔄 **CRUD API Operations**: GET, POST, PUT, DELETE  
-- 🕵️‍♀️ **Web Traffic Inspection**: Analyzing client-server communications  
+This module deepened my understanding of how web communication works behind the scenes. I gained hands-on experience crafting and intercepting HTTP requests, working with headers, and interacting with REST APIs using both CLI and browser tools. This reinforced my ability to identify insecure endpoints and vulnerabilities in web-based communication.
 
 ---
 
-### 🛠️ Tooling Implementation
+### 🔍 Key Practical Labs
 
-```bash
-# GET request
-curl -X GET https://api.example.com/data
+#### 🧪 HTTP Method Mastery  
+- Sent test payloads using all core HTTP methods  
+- Interpreted 200 / 301 / 403 / 500 response codes  
+- Analyzed raw requests using browser DevTools  
 
-# POST request with form data
-curl -X POST -d "username=admin&password=1234" https://api.example.com/login
+#### 🧾 Header Manipulation  
+- Modified headers like `User-Agent` and `Authorization`  
+- Simulated browser vs bot behavior  
+- Sent authenticated API requests with tokens  
 
-# PUT request to update a resource
-curl -X PUT -H "Content-Type: application/json" -d '{"city":"Nairobi"}' https://api.example.com/cities/1
+#### 🔄 API & CRUD Operations  
+- Listed cities via GET  
+- Added and removed data via POST/DELETE  
+- Verified changes and flag results using PUT  
 
-# DELETE request to remove a city
-curl -X DELETE https://api.example.com/cities/1
+---
+
+### 🧠 Key Takeaways
+
+- 💡 Gained foundational knowledge in **web traffic structure**  
+- 🛠️ Built and tested **custom HTTP requests** with real-world formats  
+- 🔍 Practiced identifying **security flaws** in headers and input data  
+- 🔐 Learned to safely navigate **web API endpoints**
+
+---
+
+📌 **View Certificate**: [Click to Open Badge](https://academy.hackthebox.com/achievement/badge/cb163662-43a1-11f0-bcfdbea50ffe6cb4)
