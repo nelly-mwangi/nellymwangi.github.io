@@ -1,18 +1,16 @@
 source "https://rubygems.org"
 
-source "https://rubygems.org"
-
+# Core Jekyll gem
 gem "jekyll", "~> 4.3.2"
+
+# Basic SEO and site management
 gem "jekyll-seo-tag"
-# Add any other plugins you use
 
-bundle install
-
-
+# Windows-specific dependencies
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# If you have any plugins, put them here!
+# Plugins used by Jekyll
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
