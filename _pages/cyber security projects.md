@@ -21,9 +21,10 @@ author_profile: true
 ### 🔎 **DNS in Detail**  
 **🛠️ Tools Used:** `dig` | `nslookup` | DNSDumpster  
 **📌 Skills Demonstrated:**  
-- DNS record analysis (A, MX, TXT)
-- Subdomain enumeration
-- DNS zone transfer testing
+- What is DNS
+- Domain Hierarchy
+- Record Types
+- Making a Request
 
 ```bash
 # Example DNS query
