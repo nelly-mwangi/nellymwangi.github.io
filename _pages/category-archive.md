@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Cloud Project"
+layout: posts
+permalink: /cloudprojects/
 author_profile: true
 ---
