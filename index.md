@@ -1,9 +1,8 @@
 ---
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
+title: "🎓 Curriculum Vitae - Nelly Mwangi"
 author_profile: true
 ---
-## 🎓 Curriculum Vitae - Nelly Mwangi
 
 **🌐 Networking & Cloud Security Professional**  
 **☁️ AWS Trained | 🛡️ Cybersecurity Specialist**
