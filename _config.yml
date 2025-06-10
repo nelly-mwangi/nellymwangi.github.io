@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nelly Mwangi
-email: nellymwangi17@gmail.com
+email: nellymwangi178@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  IT Support Specialist | Cloud Security | Networking
 twitter_username: @aphroditeReborn
+linkedin_username: Nelly Mwangi
 github_username: nelly-mwangi
 minimal_mistakes_skin: sunrise
 search: true
