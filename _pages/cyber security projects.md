@@ -27,4 +27,4 @@ author_profile: true
 
 ```bash
 # Example DNS query
-dig example.com ANY
+www.cisco.com
