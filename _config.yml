@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Nelly Mwangi
 email: nellymwangi178@gmail.com
-#description: >- # this means to ignore newlines until "baseurl:"
- IT Support Specialist | Cloud Security | Networking
+description: >-
+  IT Support Specialist | Cloud Security | Networking
 twitter_username: aphroditeReborn
 linkedin_username: Nelly Mwangi
 github_username: nelly-mwangi
@@ -26,14 +26,14 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
