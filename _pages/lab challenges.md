@@ -76,7 +76,7 @@ Tcpdump, Wireshark, TShark, `.pcap` files
 
 **Approach**:  
 - Crafted and intercepted GET/POST/DELETE requests  
-  ![](/assets/images/5.PNG)  
+  ![](/assets/images/5.png)  
 - Modified headers (e.g., `User-Agent`, `Authorization`)  
 - Authenticated API requests and analyzed response codes (200, 403, 500)
 
