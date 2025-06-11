@@ -50,7 +50,7 @@ Tcpdump, Wireshark, TShark, `.pcap` files
 
 
 **Approach**:  
-- Queried A, MX, TXT records using `dig` and `nslookup`  
+- Queried A, MX, TXT records using `nslookup`  
   ![](/assets/images/4.png)  
 - Traced DNS resolution paths (root > TLD > subdomain)  
 
