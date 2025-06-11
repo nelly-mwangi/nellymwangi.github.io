@@ -1,6 +1,6 @@
 ---
 title: "Cyber Security Projects"
-permalink: /Cybersecurityprojects/
+permalink: /cybersecurityprojects/
 layout: posts
 author_profile: true
 ---
