@@ -23,9 +23,12 @@ OSI & TCP/IP, Packet Filtering, RDP Decryption, Protocol Analysis
 Tcpdump, Wireshark, TShark, `.pcap` files
 
 **Approach**:  
-- Captured live traffic with `tcpdump` and analyzed with Wireshark  
+- Captured live traffic with and analyzed Wireshark  
+  ![](/assets/images/1.png)  
 - Applied display filters (e.g., `ftp`, `http`, `dns`)  
-- Reconstructed TCP streams and extracted transferred files (e.g., `Rise-Up.jpg`)  
+  ![](/assets/images/2.png)  
+- Reconstructed TCP streams and extracted transferred files  
+  ![](/assets/images/3.png)   
 - Detected suspicious activity involving user "Bob" and RDP logins (user: Bucky)
 
 **Key Outcomes**:  
@@ -39,21 +42,20 @@ Tcpdump, Wireshark, TShark, `.pcap` files
 **Platform**: [TryHackMe – DNS in Detail](https://tryhackme.com/room/dnsindetail)
 
 **Tools Used**:  
-`dig`, `nslookup`, DNSDumpster
+`nslookup`
 
 **Focus Areas**:  
 - DNS Protocol Hierarchy  
 - Record Types (A, CNAME, MX, TXT)  
-- OSINT-based DNS Enumeration
+
 
 **Approach**:  
 - Queried A, MX, TXT records using `dig` and `nslookup`  
 - Traced DNS resolution paths (root > TLD > subdomain)  
-- Applied OSINT with DNSDumpster to identify related infrastructure
+
 
 **Key Outcomes**:  
 - Built strong understanding of DNS resolution and misconfig risks  
-- Learned how DNS data aids enumeration during recon phases
 
 ---
 
