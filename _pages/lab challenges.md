@@ -23,11 +23,14 @@ OSI & TCP/IP, Packet Filtering, RDP Decryption, Protocol Analysis
 Tcpdump, Wireshark, TShark, `.pcap` files
 
 **Approach**:  
-- Captured live traffic with and analyzed Wireshark  
+- Captured live traffic with and analyzed Wireshark
+  ---
   ![](/assets/images/1.png)  
-- Applied display filters (e.g., `ftp`, `http`, `dns`)  
+- Applied display filters (e.g., `ftp`, `http`, `dns`)
+  ---
   ![](/assets/images/2.png)  
-- Reconstructed TCP streams and extracted transferred files  
+- Reconstructed TCP streams and extracted transferred files
+  ---
   ![](/assets/images/3.png)  
 - Detected suspicious activity involving user "Bob" and RDP logins (user: Bucky)
 
