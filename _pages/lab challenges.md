@@ -1,6 +1,6 @@
 ---
-title: "Cyber Security Projects"
-permalink: /cybersecurityprojects/
+title: "Lab Challenges"
+permalink: /labchallenges/
 layouts: posts
 author_profile: true
 ---
