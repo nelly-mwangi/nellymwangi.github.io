@@ -59,9 +59,8 @@ plugins:
 author:
   name: "Nelly Mwangi"
   avatar: "/assets/images/profile photo.jpg"
-  bio: >-
-    IT Support Specialist | Cloud Security | Networking.  
-    Learner | Cloud Security & Network Enthusiast.
+  bio: >-  
+    Learner, cloud security & network enthusiast.
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
