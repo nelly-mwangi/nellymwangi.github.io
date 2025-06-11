@@ -11,7 +11,7 @@ Explore real-world cybersecurity tasks based on hands-on training and analysis l
 
 ---
 
-### 🧪 Challenge: Network Traffic Analysis (HTB Academy)
+### 🧪 Challenge: Network Traffic Analysis 
 
 **Platform**: [Hack The Box Academy](https://academy.hackthebox.com/)  
 **Badge**: 🏅 [View Badge](https://academy.hackthebox.com/achievement/1918558/81)
@@ -37,7 +37,7 @@ Tcpdump, Wireshark, TShark, `.pcap` files
 
 ---
 
-### 🌐 Challenge: DNS in Detail (TryHackMe)
+### 🌐 Challenge: DNS in Detail 
 
 **Platform**: [TryHackMe – DNS in Detail](https://tryhackme.com/room/dnsindetail)
 
@@ -60,7 +60,7 @@ Tcpdump, Wireshark, TShark, `.pcap` files
 
 ---
 
-### 🔗 Challenge: Web Requests and APIs (HTB Academy)
+### 🔗 Challenge: Web Requests and APIs 
 
 **Platform**: [Hack The Box Academy](https://academy.hackthebox.com/)
 
