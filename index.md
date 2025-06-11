@@ -1,33 +1,33 @@
 ---
 layout: single
-
-title: "📜 Curriculum Vitae "
+title: "📜 Curriculum Vitae"
 author_profile: true
 ---
 
----
+## 👩‍💻 Professional Summary
 
-##👩‍💻  Professional Summary
-
-I’m an IT Support Assistant with hands-on experience providing first-line technical support,
-maintaining systems, and resolving user issues. I have a strong foundation in networking,
-cybersecurity, and Kubernetes, supported by CCNA 1 training and ongoing cybersecurity
-studies. My approach combines technical know-how with strong problem-solving, emotional
-intelligence, and analytical thinking. I'm reliable, adaptable, and work well in team settings,
-always focused on delivering user-oriented support. I'm especially passionate about growing my
-skills in cloud and security technologies.
+I’m an IT Support Assistant with hands-on experience providing first-line technical support, maintaining systems, and resolving user issues. I have a strong foundation in networking, cybersecurity, and Kubernetes, supported by CCNA 1 training and ongoing cybersecurity studies. My approach combines technical know-how with strong problem-solving, emotional intelligence, and analytical thinking. I'm reliable, adaptable, and work well in team settings, always focused on delivering user-oriented support. I'm especially passionate about growing my skills in cloud and security technologies.
 
 ---
 
-##🎓 Education
+## 🎓 Education
 
-###  Meru University of Science and Technology  
+### Meru University of Science and Technology  
 **Bachelor of Science in Computer Science**  
 *May 2022*
 
+### ALX  
+**Virtual Assistant Program**  
+*August 2024 – October 2024*
+
+### Cyber Shujaa  
+**Cloud and Network Security Training**  
+*May 2025 – Present*
+
 ---
 
-##💼 Work Experience
+## 💼 Work Experience
+
 ### Corporate Support Services – ICT (Service Management)  
 **Kenya Revenue Authority**  
 *January 2025 – Present*
@@ -39,8 +39,9 @@ skills in cloud and security technologies.
 - Maintained and managed network infrastructure including routers, switches, firewalls.  
 - Installed and configured systems, servers, and applications.  
 
-  ---
-###  Freelance Writer  
+---
+
+### Freelance Writer  
 **Upwork**  
 *April 2020 – December 2024*
 
@@ -48,61 +49,49 @@ skills in cloud and security technologies.
 - Delivered project reports and research papers with APA/MLA citation accuracy.  
 - Collaborated with clients to align tone, goals, and deliverables.  
 - Created executive summaries and progress updates for virtual projects.  
--  Used tools like Google Workspace, Microsoft Office, and Trello for task and project management.
+- Used tools like Google Workspace, Microsoft Office, and Trello for task and project management.
 
 ---
 
-###  ALX  
-**Virtual Assistant Program**  
-*August 2024 – October 2024*
-
----
-
-### Cyber Shujaa  
-**Cloud and Network Security Training**  
-*May 2025 – Present
-
----
 ### ICT Support Assistant  
 **The Meru National Polytechnic**  
 *January 2021 – April 2021*
 
 - Provided first-line technical support to users, troubleshooting hardware and software issues.  
--  Installed and configured new PCs, servers, and network devices.  
+- Installed and configured new PCs, servers, and network devices.  
 - Contributed to IT infrastructure expansion and maintenance.  
 - Managed and updated company website content for accuracy and usability.  
 - Installed and configured CCTV systems to enhance security.  
--  Maintained LAN/WAN configurations to ensure optimal connectivity and performance.
+- Maintained LAN/WAN configurations to ensure optimal connectivity and performance.
 
 ---
 
-##🎖️ Certifications & Training
+## 🎖️ Certifications & Training
 
-| Certification | Provider | Focus Area |
-|--------------|----------|------------|
-| CCNA | Cisco | Network Engineering |
-| Cloud Security | Cyber Shujaa | Security Frameworks |
-| AWS Cloud | AWS Restart Kenya | Cloud Infrastructure |
- 
+| Certification   | Provider            | Focus Area            |
+|-----------------|---------------------|------------------------|
+| CCNA            | Cisco               | Network Engineering    |
+| Cloud Security  | Cyber Shujaa        | Security Frameworks    |
+| AWS Cloud       | AWS Restart Kenya   | Cloud Infrastructure   |
+
 ---
 
-##🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-**IT support**
-- System configuration
-- Network configuration
-- Troubleshooting 
+**IT Support**  
+- System configuration  
+- Network configuration  
+- Troubleshooting  
 
 **Cloud Technologies**  
-- AWS (IAM, EC2, S3, VPC)
-- Cloud security architecture
+- AWS (IAM, EC2, S3, VPC)  
+- Cloud security architecture  
 
 **Security Specialization**  
-- Network defense strategies
-- Risk assessment
-- Access control systems
+- Network defense strategies  
+- Risk assessment  
+- Access control systems  
 
 ---
-
 
 > "Security is a continuous journey, not a destination."
