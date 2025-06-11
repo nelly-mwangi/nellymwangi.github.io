@@ -14,7 +14,7 @@ I’m an IT Support Assistant with hands-on experience providing first-line tech
 
 ### Meru University of Science and Technology  
 **Bachelor of Science in Computer Science**  
-*May 2022*
+*September 2016 – May 2022*
 
 ### ALX  
 **Virtual Assistant Program**  
