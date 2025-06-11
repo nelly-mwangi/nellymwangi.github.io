@@ -75,26 +75,26 @@ skills in cloud and security technologies.
 
 ---
 
-## 📚 Certifications & Training
+## Certifications & Training
 
 | Certification | Provider | Focus Area |
 |--------------|----------|------------|
-| 🎓 CCNA | Cisco | Network Engineering |
-| 🛡️ Cloud Security | Cyber Shujaa | Security Frameworks |
-| ☁️ AWS Cloud | AWS Restart Kenya | Cloud Infrastructure |
+| CCNA | Cisco | Network Engineering |
+| Cloud Security | Cyber Shujaa | Security Frameworks |
+| AWS Cloud | AWS Restart Kenya | Cloud Infrastructure |
  
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-**🖥️ Systems Administration**
+**Systems Administration**
 - Linux command line (sed, grep, Bash)
 - Network configuration
 
-**☁️ Cloud Technologies**  
+**Cloud Technologies**  
 - AWS (IAM, EC2, S3, VPC)
 - Cloud security architecture
 
-**🔐 Security Specialization**  
+**Security Specialization**  
 - Network defense strategies
 - Risk assessment
 - Access control systems
