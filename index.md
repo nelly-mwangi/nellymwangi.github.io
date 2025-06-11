@@ -1,13 +1,13 @@
 ---
 layout: single
 
-title: "🎓 Curriculum Vitae "
+title: "📜 Curriculum Vitae "
 author_profile: true
 ---
 
 ---
 
-## 👩‍💻 Professional Summary
+## Professional Summary
 
 I’m an IT Support Assistant with hands-on experience providing first-line technical support,
 maintaining systems, and resolving user issues. I have a strong foundation in networking,
