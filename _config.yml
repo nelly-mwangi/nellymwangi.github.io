@@ -60,7 +60,8 @@ author:
   name: "Nelly Mwangi"
   avatar: "/assets/images/profile photo.jpg"
   bio: >-
-    IT Support Specialist | Cloud Security | Networking. Learner, Cloud Security and Network Enthusiast.
+    IT Support Specialist | Cloud Security | Networking.  
+    Learner | Cloud Security & Network Enthusiast.
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -71,7 +72,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nelly-mwangi"
-
 
 footer:
   links:
