@@ -24,11 +24,11 @@ Tcpdump, Wireshark, TShark, `.pcap` files
 
 **Approach**:  
 - Captured live traffic with and analyzed Wireshark  
-  ![](nellymwangi.github.io/assets/images/1.png)  
+  ![](assets/images/1.png)  
 - Applied display filters (e.g., `ftp`, `http`, `dns`)  
-  ![](nellymwangi.github.io/assets/images/2.png)  
+  ![](assets/images/2.png)  
 - Reconstructed TCP streams and extracted transferred files  
-  ![](nellymwangi.github.io/assets/images/3.png)   
+  ![](assets/images/3.png)  
 - Detected suspicious activity involving user "Bob" and RDP logins (user: Bucky)
 
 **Key Outcomes**:  
