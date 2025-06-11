@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-## Professional Summary
+##👩‍💻  Professional Summary
 
 I’m an IT Support Assistant with hands-on experience providing first-line technical support,
 maintaining systems, and resolving user issues. I have a strong foundation in networking,
@@ -18,7 +18,16 @@ always focused on delivering user-oriented support. I'm especially passionate ab
 skills in cloud and security technologies.
 
 ---
-## Work Experience
+
+##🎓 Education
+
+###  Meru University of Science and Technology  
+**Bachelor of Science in Computer Science**  
+*May 2022*
+
+---
+
+##💼 Work Experience
 ### Corporate Support Services – ICT (Service Management)  
 **Kenya Revenue Authority**  
 *January 2025 – Present*
@@ -40,14 +49,6 @@ skills in cloud and security technologies.
 - Collaborated with clients to align tone, goals, and deliverables.  
 - Created executive summaries and progress updates for virtual projects.  
 -  Used tools like Google Workspace, Microsoft Office, and Trello for task and project management.
----
-##  Education
-
----
-
-###  Meru University of Science and Technology  
-**Bachelor of Science in Computer Science**  
-*May 2022*
 
 ---
 
@@ -75,7 +76,7 @@ skills in cloud and security technologies.
 
 ---
 
-## Certifications & Training
+##🎖️ Certifications & Training
 
 | Certification | Provider | Focus Area |
 |--------------|----------|------------|
@@ -83,12 +84,14 @@ skills in cloud and security technologies.
 | Cloud Security | Cyber Shujaa | Security Frameworks |
 | AWS Cloud | AWS Restart Kenya | Cloud Infrastructure |
  
+---
 
-## Technical Skills
+##🛠️ Technical Skills
 
-**Systems Administration**
-- Linux command line (sed, grep, Bash)
+**IT support**
+- System configuration
 - Network configuration
+- Troubleshooting 
 
 **Cloud Technologies**  
 - AWS (IAM, EC2, S3, VPC)
