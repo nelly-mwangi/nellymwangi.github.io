@@ -59,6 +59,8 @@ plugins:
 author:
   name   : "Nelly Mwangi"
   avatar : "/assets/images/profile photo.jpg"
+  description: >- # this means to ignore newlines until "baseurl:"
+ IT Support Specialist | Cloud Security | Networking
   bio    : "I’m passionate about building secure, scalable, and efficient digital systems. I’ve completed training in Networking (CCNA), Cloud Security with Cyber Shujaa, alongside AWS by AWS Restart Kenya."
   links:
     - label: "Twitter"
