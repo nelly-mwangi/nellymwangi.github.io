@@ -5,9 +5,6 @@ title: "🎓 Curriculum Vitae "
 author_profile: true
 ---
 
-**🌐 Networking & Cloud Security Professional**  
-**☁️ AWS Trained | 🛡️ Cybersecurity Specialist**
-
 ---
 
 ## 👩‍💻 Professional Summary
@@ -21,18 +18,18 @@ always focused on delivering user-oriented support. I'm especially passionate ab
 skills in cloud and security technologies.
 
 ---
-## 💼 Work Experience
+## Work Experience
 ### Corporate Support Services – ICT (Service Management)  
 **Kenya Revenue Authority**  
 *January 2025 – Present*
 
-- 🔧 Updated systems, addressed security breaches, and resolved technical issues.  
-- 🖥️ Provided technical support for hardware and software-related challenges.  
-- 🧰 Assisted in setting up and configuring workstations, laptops, and mobile devices.  
-- 🌐 Set up new user profiles and granted intranet access.  
-- 📡 Maintained and managed network infrastructure including routers, switches, firewalls.  
-- 🖱️ Installed and configured systems, servers, and applications.  
-- 🔒 Performed updates, patches, and upgrades to ensure performance and security.
+- Updated systems, addressed security breaches, and resolved technical issues.  
+- Provided technical support for hardware and software-related challenges.  
+- Assisted in setting up and configuring workstations, laptops, and mobile devices.  
+- Set up new user profiles and granted intranet access.  
+- Maintained and managed network infrastructure including routers, switches, firewalls.  
+- Installed and configured systems, servers, and applications.  
+- Performed updates, patches, and upgrades to ensure performance and security.
   ---
 ###  Freelance Writer  
 **Upwork**  
@@ -44,7 +41,7 @@ skills in cloud and security technologies.
 - Created executive summaries and progress updates for virtual projects.  
 -  Used tools like Google Workspace, Microsoft Office, and Trello for task and project management.
 ---
-## 🎓 Education
+##  Education
 
 ---
 
@@ -65,16 +62,16 @@ skills in cloud and security technologies.
 *May 2025 – Present
 
 ---
-### 🏛️ ICT Support Assistant  
+### ICT Support Assistant  
 **The Meru National Polytechnic**  
 *January 2021 – April 2021*
 
-- 🖥️ Provided first-line technical support to users, troubleshooting hardware and software issues.  
-- 🛠️ Installed and configured new PCs, servers, and network devices.  
-- 🌐 Contributed to IT infrastructure expansion and maintenance.  
-- 🌍 Managed and updated company website content for accuracy and usability.  
-- 🎥 Installed and configured CCTV systems to enhance security.  
-- 🔌 Maintained LAN/WAN configurations to ensure optimal connectivity and performance.
+- Provided first-line technical support to users, troubleshooting hardware and software issues.  
+-  Installed and configured new PCs, servers, and network devices.  
+- Contributed to IT infrastructure expansion and maintenance.  
+- Managed and updated company website content for accuracy and usability.  
+- Installed and configured CCTV systems to enhance security.  
+-  Maintained LAN/WAN configurations to ensure optimal connectivity and performance.
 
 ---
 
