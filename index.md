@@ -2,11 +2,6 @@
 layout: single
 title: "📜 Curriculum Vitae"
 author_profile: true
----
-
-## 👩‍💻 Professional Summary
-
-I’m an IT Support Assistant with hands-on experience providing first-line technical support, maintaining systems, and resolving user issues. I have a strong foundation in networking, cybersecurity, and Kubernetes, supported by CCNA 1 training and ongoing cybersecurity studies. My approach combines technical know-how with strong problem-solving, emotional intelligence, and analytical thinking. I'm reliable, adaptable, and work well in team settings, always focused on delivering user-oriented support. I'm especially passionate about growing my skills in cloud and security technologies.
 
 ---
 
