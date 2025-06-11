@@ -38,7 +38,7 @@ skills in cloud and security technologies.
 - Set up new user profiles and granted intranet access.  
 - Maintained and managed network infrastructure including routers, switches, firewalls.  
 - Installed and configured systems, servers, and applications.  
-- Performed updates, patches, and upgrades to ensure performance and security.
+
   ---
 ###  Freelance Writer  
 **Upwork**  
