@@ -13,13 +13,13 @@ author_profile: true
 To design and deploy a secure and cost-effective cloud infrastructure using AWS core services, with a focus on access control, data encryption, and monitoring.
 
 **Current Progress**:
-- Set up IAM roles and MFA-protected admin account ✅  
-- Launched EC2 instance in a custom VPC ✅  
-- Configured public/private subnets and security groups ✅  
+- Set up IAM roles 
+- Launched EC2 instance in a custom VPC  
+- Configured public/private subnets and security groups  
 - Now working on:  
-  - Enabling CloudTrail & CloudWatch for audit logs 🔄  
-  - S3 encryption and lifecycle policies 🔄  
-
+  - Enabling CloudTrail & CloudWatch for audit logs  
+  - S3 encryption and lifecycle policies
+    
 **Skills Gained**:
 - AWS best practices for access control  
 - Hands-on with EC2 networking and firewall settings  
