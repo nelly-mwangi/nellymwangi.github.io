@@ -59,18 +59,20 @@ plugins:
 author:
   name: "Nelly Mwangi"
   avatar: "/assets/images/profile photo.jpg"
-  bio: >- 
-    Learner, Cloud Security & Network Enthusiast.
+  bio: >-
+    IT Support Specialist | Cloud Security | Networking.  
+    Learner | Cloud Security & Network Enthusiast.
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/aphroditeReborn"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/nelly-mwangi-nmm/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nelly-mwangi"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:nellymwangi178@gmail.com"
+
 
 footer:
   links:
